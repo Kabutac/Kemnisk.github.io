@@ -1,5 +1,7 @@
+http://example.com/categories/index.html
 http://example.com/2023/04/18/hello-world/
+http://example.com/tags/index.html
 http://example.com/
-http://example.com/tags/Tag1/
-http://example.com/tags/Tag2/
-http://example.com/categories/Test/
+http://example.com/tags/PS3/
+http://example.com/tags/Games/
+http://example.com/categories/test/
